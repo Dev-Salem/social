@@ -128,3 +128,12 @@
 /Users/devsalem/Desktop/rider-projects/social/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/devsalem/Desktop/rider-projects/social/bin/Debug/net8.0/AutoMapper.dll
 /Users/devsalem/Desktop/rider-projects/social/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/devsalem/Desktop/rider-projects/social/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/devsalem/Desktop/rider-projects/social/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/devsalem/Desktop/rider-projects/social/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/devsalem/Desktop/rider-projects/social/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/devsalem/Desktop/rider-projects/social/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/devsalem/Desktop/rider-projects/social/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/devsalem/Desktop/rider-projects/social/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/devsalem/Desktop/rider-projects/social/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/devsalem/Desktop/rider-projects/social/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll

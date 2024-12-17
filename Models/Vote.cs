@@ -1,4 +1,3 @@
-
 namespace social.Models
 {
     public class Vote

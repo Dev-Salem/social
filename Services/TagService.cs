@@ -50,11 +50,5 @@ namespace social.Services
             await _context.SaveChangesAsync();
             return tag;
         }
-
-        // public async Task<List<Task>> GetAll(List<int> Ids)
-        // {
-
-        //    var tags = _context.Tags.AsQueryable().Where(x=> Ids.Contains(x.Id));
-        // }
     }
 }

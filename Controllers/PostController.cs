@@ -1,4 +1,5 @@
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using social.Dtos;
 using social.Helpers;
@@ -8,6 +9,7 @@ using social.Services;
 
 namespace social.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class PostController(IMapper mapper, IBaseService<Post> service) : ControllerBase

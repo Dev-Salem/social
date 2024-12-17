@@ -1,6 +1,13 @@
 @social_HostAddress = http://localhost:5048
 
-GET {{social_HostAddress}}/weatherforecast/
+
+GET {{social_HostAddress}}/api/Tag
 Accept: application/json
 
-###
+
+
+
+
+
+
+
